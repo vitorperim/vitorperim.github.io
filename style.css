@@ -1,0 +1,34 @@
+#meuNome
+{
+    text-align: center;
+    color: #0B2B8A;
+}
+
+#foto
+{
+    float:left;
+    height: 180px;
+    padding: 10px;
+    background-color: rgb(83, 83, 147);
+}
+
+#descricao
+{
+    font-family: cursive;
+    position: absolute;
+    top: 190px;
+    left: 200px;
+}
+
+.image-container
+{
+    height: 200px;
+}
+
+
+
+body {
+    color: #0075a3;
+    background-color: #EAFFFD ;
+    padding: 2%;
+  }
